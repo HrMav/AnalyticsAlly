@@ -1,7 +1,9 @@
+import myImg from '../src/assets/images/profile.png'
+
 const logotext = "ANALYTICS ALLY";
 const meta = {
     title: "Harun",
-    description: "I’m Harun data analyst_ manager analytics,currently working in Toronto",
+    description: "I’m Harun data analyst specialist, currently working in Toronto",
 };
 
 const introdata = {
@@ -12,49 +14,44 @@ const introdata = {
         third: "I develop awesome dashboards",
     },
     description: "The Future is Data-Driven. Are You?",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: myImg,
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a data analyst specialist currently working for a major financial institution. ",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "Manager, Economics and Analytics",
+        where: "Toronto",
         date: "2020",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Manager, Finanical Reporting",
+        where: "Toronto",
+        date: "2013",
     },
 ];
 
 const skills = [{
         name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
         value: 85,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "R",
+        value: 90,
+    },
+    {
+        name: "SQL",
+        value: 85,
+    },
+    {
+        name: "Power BI/Superset/Tableau",
+        value: 85,
     },
     {
         name: "React",
         value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
     },
 ];
 
@@ -136,9 +133,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "hcoolj@gmail.com",
+    YOUR_FONE: "Email preferred please",
+    description: "If you have any questions about my work projects, feel free to contact me. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +144,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/HrMav",
+    linkedin: "https://linkedin.com/in/harun-joseph-60829b109",
+    
 };
 export {
     meta,
