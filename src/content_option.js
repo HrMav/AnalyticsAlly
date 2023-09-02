@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "ANALYTICS ALLY";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Harun",
+    description: "I’m Harun data analyst_ manager analytics,currently working in Toronto",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Harun",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love data",
+        second: "I mine cool data",
+        third: "I develop awesome dashboards",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "The Future is Data-Driven. Are You?",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
