@@ -1,4 +1,6 @@
-import myImg from '../src/assets/images/profile.png'
+import Img1 from '../src/assets/images/profile.png'
+import Img2 from '../src/assets/images/fuel.png'
+import Img3 from '../src/assets/images/baby.png'
 
 const logotext = "ANALYTICS ALLY";
 const meta = {
@@ -14,7 +16,7 @@ const introdata = {
         third: "I develop awesome dashboards",
     },
     description: "The Future is Data-Driven. Are You?",
-    your_img_url: myImg,
+    your_img_url: Img1,
 };
 
 const dataabout = {
@@ -56,27 +58,27 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Exploratory Data Analyis",
+        description: "Everthing starts with EDA.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Data Visualization",
+        description: "Proficient in numerous business intelligence tools.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Transform analytics to insights",
+        description: "Ability to translate boring data into fun metrics.",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: Img2,
+        description: "Fuel Consumption ratings.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: Img3,
+        description: "Top baby names since 1880.",
         link: "#",
     },
     {
