@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AnalyticsAlly/static/css/main.fbc00891.css",
+    "main.js": "/AnalyticsAlly/static/js/main.608438ef.js",
+    "static/media/profile.png": "/AnalyticsAlly/static/media/profile.9d7443db4565ca56e366.png",
+    "static/media/baby.png": "/AnalyticsAlly/static/media/baby.dc24ebf4f9f64f7df9c9.png",
+    "static/media/fuel.png": "/AnalyticsAlly/static/media/fuel.abda7423c1ffe099d41c.png",
+    "index.html": "/AnalyticsAlly/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.608438ef.js"
+  ]
+}
