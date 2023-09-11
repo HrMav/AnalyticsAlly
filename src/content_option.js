@@ -5,7 +5,7 @@ import Img3 from '../src/assets/images/baby.png'
 const logotext = "ANALYTICS ALLY";
 const meta = {
     title: "Harun",
-    description: "I’m Harun data analyst specialist, currently working in Toronto",
+    description: "I’m Harun data analysis specialist, currently working in Toronto",
 };
 
 const introdata = {
@@ -21,15 +21,15 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "I am a data analyst specialist currently working for a major financial institution. ",
+    aboutme: "I am a data analysis specialist currently working for a major financial institution. ",
 };
 const worktimeline = [{
-        jobtitle: "Manager, Economics and Analytics",
+        jobtitle: "Manager, Economics & Analytics",
         where: "Toronto",
         date: "2020",
     },
     {
-        jobtitle: "Manager, Finanical Reporting",
+        jobtitle: "Manager, Financial Reporting & Analysis",
         where: "Toronto",
         date: "2013",
     },
@@ -48,7 +48,7 @@ const skills = [{
         value: 85,
     },
     {
-        name: "Power BI/Superset/Tableau",
+        name: "Looker/Power BI/Superset/Tableau",
         value: 85,
     },
     {
