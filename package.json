@@ -1,8 +1,8 @@
 {
-    "name": "react-portfolio",
+    "name": "exit",
     "homepage": "http://HrMav.github.io/AnalyticsAlly",
-    "version": "0.1.0",
-    "private": true,
+    "version": "exti",
+    "private": null,
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
@@ -46,5 +46,10 @@
     },
     "devDependencies": {
         "gh-pages": "^6.0.0"
-    }
+    },
+    "description": "exit",
+    "main": "exit",
+    "repository": "exit",
+    "author": "exit",
+    "license": "exti"
 }
