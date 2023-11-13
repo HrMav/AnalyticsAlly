@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/AnalyticsAlly/static/css/main.fbc00891.css",
-    "main.js": "/AnalyticsAlly/static/js/main.720f064b.js",
-    "static/media/profile.png": "/AnalyticsAlly/static/media/profile.9d7443db4565ca56e366.png",
-    "static/media/baby.png": "/AnalyticsAlly/static/media/baby.dc24ebf4f9f64f7df9c9.png",
-    "static/media/fuel.png": "/AnalyticsAlly/static/media/fuel.abda7423c1ffe099d41c.png",
+    "main.js": "/AnalyticsAlly/static/js/main.4ce8b4e8.js",
+    "static/media/baby.png": "/AnalyticsAlly/static/media/baby.7beea4c42bd0afc24490.png",
+    "static/media/profile.png": "/AnalyticsAlly/static/media/profile.71ce768dfd44a5daddba.png",
+    "static/media/github.png": "/AnalyticsAlly/static/media/github.4d21eff70845bfea34f0.png",
+    "static/media/fuel.png": "/AnalyticsAlly/static/media/fuel.6d8317214f05e77e1166.png",
+    "static/media/stats.png": "/AnalyticsAlly/static/media/stats.0f3fd8d3603ebc53e8e1.png",
     "index.html": "/AnalyticsAlly/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.720f064b.js"
+    "static/js/main.4ce8b4e8.js"
   ]
 }
