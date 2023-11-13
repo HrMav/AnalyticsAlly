@@ -1,6 +1,8 @@
 import Img1 from '../src/assets/images/profile.png'
-import Img2 from '../src/assets/images/fuel.png'
+import Img2 from '../src/assets/images/github.png'
 import Img3 from '../src/assets/images/baby.png'
+import Img4 from '../src/assets/images/fuel.png'
+import Img5 from '../src/assets/images/stats.png'
 
 const logotext = "ANALYTICS ALLY";
 const meta = {
@@ -72,14 +74,25 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: Img2,
-        description: "Fuel Consumption ratings.",
-        link: "#",
+    // You can add an image that represents your GitHub profile or a generic placeholder image
+    img: Img2,
+    description: "Discover a world of innovation and creativity! Dive into my GitHub portfolio to explore the full spectrum of all my projects and coding adventures.",
+    link: "https://github.com/HrMav",
     },
     {
-        img: Img3,
-        description: "Top baby names since 1880.",
-        link: "#",
+    img: Img3,
+    description: "Unravel the secrets of baby naming trends with our dynamic Apache Superset dashboard – your gateway to the art and science of names!",
+    link: "https://github.com/HrMav/US-Baby-Names-Superset",
+    },
+    {
+    img: Img4,
+    description: "Steer through the energy efficiency of vehicles with our Looker Studio dashboard – your ultimate guide to smarter, greener driving choices!",
+    link: "https://github.com/HrMav/EnerGuide-FuelConsumption-Looker-Studio",
+    },
+    {
+    img: Img5,
+    description: "Comprehensive Analysis of Diverse Health-Related Queries Using R: A Statistical Exploration",
+    link: "https://github.com/HrMav/Health-Analytics-Statistics-Inferences-R",
     },
 ];
 
